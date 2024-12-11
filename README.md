@@ -1,9 +1,11 @@
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fbioinformatics-concept-vector-illustration-horizontal-banner-1894496257&psig=AOvVaw0Bzl34xhDu2nAF95bt56FN&ust=1733997801437000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjTsp6pu5-KAxVLk68BHQIqBzYQjRx6BAgAEBk)
+![image](https://github.com/user-attachments/assets/1c8b14a4-93a3-4c2b-b4b9-19a8117849f5)
+
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Amjad Farooq</h1>
 <h3 align="center">A passionate Bioinformatician and Plant Molecular Breeder from Pakistan</h3>
+<p align="left"> <img src="https://github.com/user-attachments/assets/416765d2-ae83-4e6d-8f5f-2d32493e70fa"/>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1C14WKak4XpYv1kun0MxEi&ust=1733997382847000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOicpOq5n4oDFQAAAAAdAAAAABAE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjad1148&label=Profile%20views&color=0e75b6&style=flat" alt="amjad1148" /> </p>
 
