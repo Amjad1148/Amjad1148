@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Amjad Farooq</h1>
 <h3 align="center">A passionate Bioinformatician and Plant Molecular Breeder from Pakistan</h3>
-<p align="right" width="400"> <img src="https://github.com/user-attachments/assets/416765d2-ae83-4e6d-8f5f-2d32493e70fa"/>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjad1148&label=Profile%20views&color=0e75b6&style=flat" alt="amjad1148" /> </p>
 
