@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Muhammad Amjad Farooq</h1>
 <h3 align="center">A passionate Bioinformatician and Plant Molecular Breeder from Pakistan</h3>
 
