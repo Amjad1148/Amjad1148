@@ -1,4 +1,4 @@
-
+![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fbioinformatics-concept-vector-illustration-horizontal-banner-1894496257&psig=AOvVaw0Bzl34xhDu2nAF95bt56FN&ust=1733997801437000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjTsp6pu5-KAxVLk68BHQIqBzYQjRx6BAgAEBk)
 
 <h1 align="center">Hi 👋, I'm Muhammad Amjad Farooq</h1>
 <h3 align="center">A passionate Bioinformatician and Plant Molecular Breeder from Pakistan</h3>
