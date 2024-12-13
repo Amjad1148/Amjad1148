@@ -14,6 +14,7 @@
 - 📝 I regularly write articles on [https://plant-bioinformatics.blogspot.com/](https://plant-bioinformatics.blogspot.com/)
 
 - 📫 How to reach me **mamjad1148@gmail.com**
+- Reach me on Twitter **@Amjad10269**
 
 
 
